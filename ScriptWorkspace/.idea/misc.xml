@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/QBDScript/pom.xml" />
+        <option value="$PROJECT_DIR$/TestScript/pom.xml" />
+        <option value="$PROJECT_DIR$/DebugScript/pom.xml" />
+        <option value="$PROJECT_DIR$/TelosScript/pom.xml" />
+        <option value="$PROJECT_DIR$/TitansScript/pom.xml" />
+        <option value="$PROJECT_DIR$/ZulrahScript/pom.xml" />
+        <option value="$PROJECT_DIR$/CreatorScript/pom.xml" />
+        <option value="$PROJECT_DIR$/LachrymScript/pom.xml" />
+        <option value="$PROJECT_DIR$/LodsmokScript/pom.xml" />
+        <option value="$PROJECT_DIR$/CerberusScript/pom.xml" />
+        <option value="$PROJECT_DIR$/NightmareScript/pom.xml" />
+        <option value="$PROJECT_DIR$/AbyssalSireScript/pom.xml" />
+        <option value="$PROJECT_DIR$/CrimsonChinScript/pom.xml" />
+        <option value="$PROJECT_DIR$/ReaperOfSoulsScript/pom.xml" />
+        <option value="$PROJECT_DIR$/DemonicGorillaScript/pom.xml" />
+        <option value="$PROJECT_DIR$/SlayerSuperiorScript/pom.xml" />
+        <option value="$PROJECT_DIR$/GrotesqueGuardianScript/pom.xml" />
+        <option value="$PROJECT_DIR$/SlayerScript/pom.xml" />
+        <option value="$PROJECT_DIR$/ElderArchmageScript/pom.xml" />
+        <option value="$PROJECT_DIR$/ElderArchmageScriptSimple/pom.xml" />
+        <option value="$PROJECT_DIR$/CursedArravScript/pom.xml" />
+        <option value="$PROJECT_DIR$/CaptainDeathbeardScript/pom.xml" />
+        <option value="$PROJECT_DIR$/VulcanScript/pom.xml" />
+        <option value="$PROJECT_DIR$/MalignisScript/pom.xml" />
+        <option value="$PROJECT_DIR$/DreamlandScript/pom.xml" />
+        <option value="$PROJECT_DIR$/MarrowReaperScript/pom.xml" />
+        <option value="$PROJECT_DIR$/AvianRaidScript/pom.xml" />
+        <option value="$PROJECT_DIR$/OlmScript/pom.xml" />
+        <option value="$PROJECT_DIR$/GroupSlayerScript/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ElderArchmageScriptSimple/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LachrymScript" />
+        <module name="NightmareScript" />
+        <module name="LodsmokScript" />
+        <module name="AbyssalSireScript" />
+        <module name="ReforgedBarrelchestScript" />
+        <module name="CrimsonChinScript" />
+        <module name="DemonicGorillaScript" />
+        <module name="MalignisScript" />
+        <module name="BlightfiendScript" />
+        <module name="CerberusScript" />
+        <module name="ReaperOfSoulsScript" />
+        <module name="LimestreamScript" />
+        <module name="OlmScript" />
+        <module name="GoldenMawScript" />
+        <module name="QBDScript" />
+        <module name="CreatorScript" />
+        <module name="AzharithScript" />
+        <module name="VulcanScript" />
+        <module name="DebugScript" />
+        <module name="ZulrahScript" />
+        <module name="SlayerScript" />
+        <module name="GroupSlayerScript" />
+        <module name="KarmaBossScript" />
+        <module name="CursedArravScript" />
+        <module name="CaptainDeathbeardScript" />
+        <module name="DreamlandScript" />
+        <module name="KarmaBattlefieldScript" />
+        <module name="TelosScript" />
+        <module name="TitansScript" />
+        <module name="SlayerSuperiorScript" />
+        <module name="ElderArchmageScript" />
+        <module name="GrotesqueGuardianScript" />
+        <module name="AvianRaidScript" />
+        <module name="MarrowReaperScript" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ElderArchmageScriptSimple" target="24" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

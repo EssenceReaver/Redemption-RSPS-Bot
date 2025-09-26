@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>ScriptWorkspace</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>24</maven.compiler.source>
+        <maven.compiler.target>24</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.john</groupId>
+            <artifactId>RedemptionBotSDK</artifactId>
+            <version>1.0.0</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
+    <modules>
+        <module>AbyssalSireScript</module>
+        <module>AvianRaidScript</module>
+        <module>CaptainDeathbeardScript</module>
+        <module>CerberusScript</module>
+        <module>CreatorScript</module>
+        <module>CrimsonChinScript</module>
+        <module>CursedArravScript</module>
+        <module>DebugScript</module>
+        <module>DemonicGorillaScript</module>
+        <module>DreamlandScript</module>
+        <module>ElderArchmageScript</module>
+        <module>GrotesqueGuardianScript</module>
+        <module>GroupSlayerScript</module>
+        <module>LachrymScript</module>
+        <module>LodsmokScript</module>
+        <module>MalignisScript</module>
+        <module>MarrowReaperScript</module>
+        <module>NightmareScript</module>
+        <module>OlmScript</module>
+        <module>QBDScript</module>
+        <module>ReaperOfSoulsScript</module>
+        <module>SlayerScript</module>
+        <module>SlayerSuperiorScript</module>
+        <module>TelosScript</module>
+        <module>TitansScript</module>
+        <module>VulcanScript</module>
+        <module>ZulrahScript</module>
+        <module>ReforgedBarrelchestScript</module>
+        <module>GoldenMawScript</module>
+        <module>LimestreamScript</module>
+        <module>BlightfiendScript</module>
+        <module>KarmaBossScript</module>
+        <module>KarmaBattlefieldScript</module>
+        <module>AzharithScript</module>
+    </modules>
+
+
+</project>
