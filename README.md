@@ -8,7 +8,7 @@ This is a RSPS bot tool for the RSPS Redemption. It comes with plenty of hooks a
 
 Join my Discord server or add me if you want some assistance:
 
-![Discord](https://img.shields.io/discord/1420978473169719320?style=flat-square&logo=discord&label=Join%20Now)&nbsp;&nbsp;&nbsp;
+![Discord](https://img.shields.io/discord/1420978473169719320?style=flat-square&logo=discord&label=Join%20Now&link=https%3A%2F%2Fdiscord.gg%2FcsayJvptZ7)&nbsp;&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/discord-com.john-%235865F2?style=flat-square&logo=discord)
 
 
