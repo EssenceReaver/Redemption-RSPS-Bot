@@ -1,9 +1,16 @@
+## Status
+
+⚠️Currently not updated due to lack of users (Redemption Update 51 released). If you are using the project or want to use the project contact me on discord and I will update it.
+
+
 # Redemption RSPS Bot
 This is a RSPS bot tool for the RSPS Redemption. It comes with plenty of hooks and a ton of functionality already built into the SDK. Feel free to clone the repository, build the tools yourself, and write your own scripts. I have included many scripts already, and if you want, you can get in touch with me and I will write new scripts for you based on your needs.
 
-Join my Discord server if you want some assistance:
+Join my Discord server or add me if you want some assistance:
 
-[![Discord](https://img.shields.io/discord/123456789012345678.svg?label=Discord&logo=discord&color=7289da)](https://discord.gg/csayJvptZ7)
+![Discord](https://img.shields.io/discord/1420978473169719320?style=flat-square&logo=discord&label=Join%20Now)&nbsp;&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/discord-com.john-%235865F2?style=flat-square&logo=discord)
+
 
 ## How to run
 Inside the release section you will find a modded redemption.jar file, a RedemptionBotCore.jar file, and a zip file containing all of my pre-made scripts. You download these files and put them in the same directory (unzip the scripts folder). Alternatively you can build the files yourself. To run the client, you simply open the current directory in powershell / command prompt and use the following command:
